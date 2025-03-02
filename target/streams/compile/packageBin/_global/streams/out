@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/mimurayuto/programming/dev/Scala/study/target/scala-2.13/study_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mimurayuto/programming/dev/Scala/study/target/scala-2.13/classes/HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mimurayuto/programming/dev/Scala/study/target/scala-2.13/classes/HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mimurayuto/programming/dev/Scala/study/target/scala-2.13/classes/User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Age.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mimurayuto/programming/dev/Scala/study/target/scala-2.13/classes/Age.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mimurayuto/programming/dev/Scala/study/target/scala-2.13/classes/User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Age$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mimurayuto/programming/dev/Scala/study/target/scala-2.13/classes/Age$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

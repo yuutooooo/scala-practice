@@ -1,0 +1,1703 @@
+2025.03.02 22:37:48 INFO  Started: Metals version 1.5.1 in folders '/Users/mimurayuto/programming/dev/Scala/study' for client Cursor 1.96.2.
+2025.03.02 22:37:50 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/User.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2025.03.02 22:37:50 INFO  Attempting to connect to the build server...
+2025.03.02 22:37:50 INFO  Found a Bloop server running
+2025.03.02 22:37:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:37:51 INFO  time: Connected to build server in 0.21s
+2025.03.02 22:37:51 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:37:51 INFO  running doctor check
+2025.03.02 22:37:51 INFO  java targets: study-test, study
+2025.03.02 22:37:52 INFO  time: indexed workspace in 1.77s
+2025.03.02 22:37:53 INFO  compiling study (2 scala sources)
+2025.03.02 22:37:53 INFO  time: compiled study in 0.48s
+2025.03.02 22:37:53 INFO  compiling study-test (2 scala sources)
+2025.03.02 22:37:53 INFO  time: compiled study-test in 0.15s
+2025.03.02 22:38:00 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:38:00 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:38:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:38:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:38:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:38:04 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+3月 02, 2025 10:38:12 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:39:07 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:40:15 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:40:16 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:40:28 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:40:33 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:40:41 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:40:41 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:45:38 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:45:38 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.02 22:46:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:03 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:03 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:03 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:03 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:03 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:03 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:04 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:03 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:05 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:05 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:05 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:06 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:46:06 INFO  Disconnecting from Bloop session...
+2025.03.02 22:46:05 INFO  Shut down connection with build server.
+2025.03.02 22:46:06 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:06 INFO  Attempting to connect to the build server...
+2025.03.02 22:46:06 INFO  Found a Bloop server running
+2025.03.02 22:46:06 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:06 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:06 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:46:05 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:46:05 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:46:06 INFO  running doctor check
+2025.03.02 22:46:06 INFO  java targets: study-test, study
+2025.03.02 22:46:06 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:06 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:06 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:06 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:06 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:06 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:06 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:06 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:06 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:07 INFO  time: indexed workspace in 1.31s
+2025.03.02 22:46:07 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:08 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:08 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:08 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:08 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:08 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:09 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:09 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:09 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:09 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:09 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:09 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:09 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:09 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:09 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:09 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:09 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:09 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:09 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:09 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:10 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:10 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:10 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:10 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:10 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:10 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:10 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:10 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:11 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:11 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:11 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:11 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:11 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:11 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:12 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:12 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:12 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:12 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:13 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:13 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:12 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:12 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:12 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:12 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:12 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:12 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:13 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:13 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:13 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:13 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:13 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:46:14 INFO  Disconnecting from Bloop session...
+2025.03.02 22:46:14 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:14 INFO  Shut down connection with build server.
+2025.03.02 22:46:14 INFO  Attempting to connect to the build server...
+2025.03.02 22:46:14 INFO  Found a Bloop server running
+2025.03.02 22:46:14 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:46:14 INFO  time: Connected to build server in 0.12s
+2025.03.02 22:46:14 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:46:14 INFO  running doctor check
+2025.03.02 22:46:14 INFO  java targets: study-test, study
+2025.03.02 22:46:14 INFO  time: indexed workspace in 0.71s
+2025.03.02 22:46:14 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:15 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:15 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:16 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:16 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:16 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:16 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:17 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:16 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:17 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:46:17 INFO  Disconnecting from Bloop session...
+2025.03.02 22:46:17 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:17 INFO  Shut down connection with build server.
+2025.03.02 22:46:17 INFO  Attempting to connect to the build server...
+2025.03.02 22:46:17 INFO  Found a Bloop server running
+2025.03.02 22:46:17 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:46:17 INFO  time: Connected to build server in 0.12s
+2025.03.02 22:46:17 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:46:17 INFO  running doctor check
+2025.03.02 22:46:17 INFO  java targets: study-test, study
+3月 02, 2025 10:46:18 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.02 22:46:18 INFO  time: indexed workspace in 0.92s
+2025.03.02 22:46:18 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:18 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:19 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+3月 02, 2025 10:46:22 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.02 22:46:23 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:23 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:23 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:23 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:23 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:24 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:24 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:24 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:24 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:46:24 INFO  Disconnecting from Bloop session...
+2025.03.02 22:46:24 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:24 INFO  Shut down connection with build server.
+2025.03.02 22:46:24 INFO  Attempting to connect to the build server...
+2025.03.02 22:46:24 INFO  Found a Bloop server running
+2025.03.02 22:46:24 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:46:24 INFO  time: Connected to build server in 0.12s
+2025.03.02 22:46:24 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:46:25 INFO  running doctor check
+2025.03.02 22:46:25 INFO  java targets: study-test, study
+2025.03.02 22:46:24 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:24 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:25 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:25 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:24 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:25 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:25 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:25 INFO  time: indexed workspace in 0.81s
+2025.03.02 22:46:25 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:25 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:26 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:26 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:26 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:26 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:26 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:26 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:27 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:46:27 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:27 INFO  Disconnecting from Bloop session...
+2025.03.02 22:46:26 INFO  Shut down connection with build server.
+2025.03.02 22:46:27 INFO  Attempting to connect to the build server...
+2025.03.02 22:46:27 INFO  Found a Bloop server running
+2025.03.02 22:46:27 INFO  Failed to run request with params InverseSourcesResult
+3月 02, 2025 10:46:27 午後 scala.meta.internal.metals.StdReporter $anonfun$create$1
+重大: expected identifier; obtained eof (full report at: /Users/mimurayuto/programming/dev/Scala/study/.metals/.reports/metals/2025-03-02/r_scala-toplevel-mtags_22-46-27-596.md)
+2025.03.02 22:46:27 ERROR /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+scala.meta.internal.tokenizers.package$UnexpectedInputEndException
+	at scala.meta.internal.tokenizers.LegacyScanner.$anonfun$nextToken$1(LegacyScanner.scala:172)
+	at scala.Function0.apply$mcV$sp(Function0.scala:42)
+	at scala.meta.internal.tokenizers.LegacyScanner.scala$meta$internal$tokenizers$LegacyScanner$$nextToken(LegacyScanner.scala:178)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:172)
+	at scala.meta.internal.mtags.ScalaToplevelMtags$XtensionScanner.mtagsNextToken(ScalaToplevelMtags.scala:76)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.emitMember(ScalaToplevelMtags.scala:757)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.loop(ScalaToplevelMtags.scala:251)
+	at scala.meta.internal.mtags.ScalaToplevelMtags.indexRoot(ScalaToplevelMtags.scala:88)
+	at scala.meta.internal.metals.SemanticdbDefinition$.foreachWithReturnMtags(SemanticdbDefinition.scala:81)
+	at scala.meta.internal.metals.Indexer.indexSourceFile(Indexer.scala:485)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3(Indexer.scala:583)
+	at scala.meta.internal.metals.Indexer.$anonfun$reindexWorkspaceSources$3$adapted(Indexer.scala:580)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1306)
+	at scala.meta.internal.metals.Indexer.reindexWorkspaceSources(Indexer.scala:580)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$onChange$2(MetalsLspService.scala:927)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2025.03.02 22:46:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:46:27 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:46:27 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:46:27 INFO  running doctor check
+2025.03.02 22:46:27 INFO  java targets: study-test, study
+2025.03.02 22:46:27 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:27 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:28 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:27 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:27 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:27 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:27 INFO  time: indexed workspace in 0.72s
+2025.03.02 22:46:28 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:28 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:28 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:28 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:28 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:28 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:29 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:29 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:28 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:29 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:29 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:29 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:30 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:46:30 INFO  Disconnecting from Bloop session...
+2025.03.02 22:46:30 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:30 INFO  Shut down connection with build server.
+2025.03.02 22:46:30 INFO  Attempting to connect to the build server...
+2025.03.02 22:46:30 INFO  Found a Bloop server running
+2025.03.02 22:46:30 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:46:30 INFO  time: Connected to build server in 0.12s
+2025.03.02 22:46:30 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:46:30 INFO  running doctor check
+2025.03.02 22:46:30 INFO  java targets: study-test, study
+2025.03.02 22:46:30 INFO  time: indexed workspace in 0.67s
+2025.03.02 22:46:30 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:31 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:31 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+3月 02, 2025 10:46:34 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:46:39 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.02 22:46:42 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:42 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:42 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:42 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:42 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:42 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:42 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:42 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:43 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:46:43 INFO  Disconnecting from Bloop session...
+2025.03.02 22:46:43 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:43 INFO  Shut down connection with build server.
+2025.03.02 22:46:43 INFO  Attempting to connect to the build server...
+2025.03.02 22:46:43 INFO  Found a Bloop server running
+2025.03.02 22:46:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:46:43 INFO  time: Connected to build server in 0.14s
+2025.03.02 22:46:43 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:46:43 INFO  running doctor check
+2025.03.02 22:46:43 INFO  java targets: study-test, study
+2025.03.02 22:46:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:43 INFO  time: indexed workspace in 0.67s
+2025.03.02 22:46:44 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:44 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:44 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:44 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:44 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:44 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:45 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:46:45 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:45 INFO  Disconnecting from Bloop session...
+2025.03.02 22:46:45 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:45 INFO  Shut down connection with build server.
+2025.03.02 22:46:45 INFO  Attempting to connect to the build server...
+2025.03.02 22:46:45 INFO  Found a Bloop server running
+2025.03.02 22:46:45 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:46:45 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:46:45 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:46:45 INFO  running doctor check
+2025.03.02 22:46:45 INFO  java targets: study-test, study
+2025.03.02 22:46:45 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:45 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:45 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:46 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:46 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:45 INFO  time: indexed workspace in 0.73s
+2025.03.02 22:46:46 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:46 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:45 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:45 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:46 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:46 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:46 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:46 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:46 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:46 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:47 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:46:47 INFO  Disconnecting from Bloop session...
+2025.03.02 22:46:47 INFO  Shut down connection with build server.
+2025.03.02 22:46:47 INFO  Attempting to connect to the build server...
+2025.03.02 22:46:47 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:47 INFO  Found a Bloop server running
+2025.03.02 22:46:47 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:46:47 INFO  time: Connected to build server in 0.12s
+2025.03.02 22:46:47 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:46:47 INFO  running doctor check
+2025.03.02 22:46:47 INFO  java targets: study-test, study
+2025.03.02 22:46:47 INFO  time: indexed workspace in 0.68s
+2025.03.02 22:46:48 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:48 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:48 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:48 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:48 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:48 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:48 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:48 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:49 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:48 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:48 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:48 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:49 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:48 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:48 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:49 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:49 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:50 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:50 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:50 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:50 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:50 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:50 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:50 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:50 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:50 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:50 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:50 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:51 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:51 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:51 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:51 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:51 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:51 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:51 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:52 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:52 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:52 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:52 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:52 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:52 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:52 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:53 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:53 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:53 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:53 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:53 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:53 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:53 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:53 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:53 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:53 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:53 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:54 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:54 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:55 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:55 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:55 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:55 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:55 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:55 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:55 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:55 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:55 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:55 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:55 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:55 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:56 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:46:56 INFO  Disconnecting from Bloop session...
+2025.03.02 22:46:56 INFO  Shut down connection with build server.
+2025.03.02 22:46:56 INFO  Failed to run request with params InverseSourcesResult
+2025.03.02 22:46:56 INFO  Attempting to connect to the build server...
+2025.03.02 22:46:56 INFO  Found a Bloop server running
+2025.03.02 22:46:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:46:56 INFO  time: Connected to build server in 0.12s
+2025.03.02 22:46:56 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:46:56 INFO  running doctor check
+2025.03.02 22:46:56 INFO  java targets: study-test, study
+2025.03.02 22:46:56 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:56 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:56 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:56 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:56 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:56 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:57 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:56 INFO  time: indexed workspace in 0.73s
+2025.03.02 22:46:57 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:57 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:58 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:58 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:46:58 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:58 INFO  Disconnecting from Bloop session...
+2025.03.02 22:46:58 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:58 INFO  Shut down connection with build server.
+2025.03.02 22:46:58 INFO  Attempting to connect to the build server...
+2025.03.02 22:46:58 INFO  Found a Bloop server running
+2025.03.02 22:46:58 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:58 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:46:58 INFO  time: Connected to build server in 0.12s
+2025.03.02 22:46:58 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:46:58 INFO  running doctor check
+2025.03.02 22:46:58 INFO  java targets: study-test, study
+2025.03.02 22:46:58 INFO  time: indexed workspace in 0.72s
+2025.03.02 22:46:58 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:46:58 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:46:59 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:08 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:08 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:08 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:08 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:08 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:08 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:08 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:08 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:08 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:09 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:08 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:10 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:47:10 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+3月 02, 2025 10:47:10 午後 scala.meta.internal.metals.StdReporter $anonfun$create$1
+重大: expected identifier; obtained rbrace (full report at: /Users/mimurayuto/programming/dev/Scala/study/.metals/.reports/metals/2025-03-02/r_scala-toplevel-mtags_22-47-10-091.md)
+2025.03.02 22:47:10 INFO  Disconnecting from Bloop session...
+2025.03.02 22:47:10 INFO  Shut down connection with build server.
+2025.03.02 22:47:10 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:10 INFO  Attempting to connect to the build server...
+2025.03.02 22:47:10 INFO  Found a Bloop server running
+2025.03.02 22:47:10 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:47:10 INFO  time: Connected to build server in 0.12s
+2025.03.02 22:47:10 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:47:10 INFO  running doctor check
+2025.03.02 22:47:10 INFO  java targets: study-test, study
+2025.03.02 22:47:10 INFO  time: indexed workspace in 0.68s
+2025.03.02 22:47:10 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:10 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:11 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:15 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:15 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:15 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:15 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:15 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:15 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:15 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:15 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:15 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:15 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:15 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:15 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:16 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:47:16 INFO  Disconnecting from Bloop session...
+2025.03.02 22:47:16 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:16 INFO  Shut down connection with build server.
+2025.03.02 22:47:16 INFO  Attempting to connect to the build server...
+2025.03.02 22:47:16 INFO  Found a Bloop server running
+2025.03.02 22:47:16 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:47:16 INFO  time: Connected to build server in 0.14s
+2025.03.02 22:47:16 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:47:16 INFO  running doctor check
+2025.03.02 22:47:16 INFO  java targets: study-test, study
+2025.03.02 22:47:16 INFO  time: indexed workspace in 0.65s
+2025.03.02 22:47:16 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:17 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:16 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:21 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:21 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:21 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:21 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:21 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:21 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:22 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:21 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:21 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:22 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:22 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:22 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:22 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:22 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:22 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:22 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:23 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:23 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:23 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:23 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:24 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:23 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:23 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:23 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:24 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:24 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:24 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:24 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:25 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:25 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:24 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:24 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:25 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:25 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:26 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:47:26 INFO  Disconnecting from Bloop session...
+2025.03.02 22:47:25 INFO  Shut down connection with build server.
+2025.03.02 22:47:25 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:26 INFO  Attempting to connect to the build server...
+2025.03.02 22:47:26 INFO  Found a Bloop server running
+2025.03.02 22:47:25 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:26 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:47:25 INFO  time: Connected to build server in 0.12s
+2025.03.02 22:47:25 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:47:26 INFO  running doctor check
+2025.03.02 22:47:26 INFO  java targets: study-test, study
+2025.03.02 22:47:26 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:26 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:26 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:26 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:27 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:26 INFO  time: indexed workspace in 0.68s
+2025.03.02 22:47:27 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:27 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:28 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:47:28 INFO  Disconnecting from Bloop session...
+2025.03.02 22:47:28 INFO  Shut down connection with build server.
+2025.03.02 22:47:27 INFO  Failed to run request with params InverseSourcesResult
+2025.03.02 22:47:28 INFO  Attempting to connect to the build server...
+2025.03.02 22:47:28 INFO  Found a Bloop server running
+2025.03.02 22:47:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:47:28 INFO  time: Connected to build server in 0.12s
+2025.03.02 22:47:28 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:47:27 INFO  running doctor check
+2025.03.02 22:47:27 INFO  java targets: study-test, study
+2025.03.02 22:47:28 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:28 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:28 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:28 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:28 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:28 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:29 INFO  time: indexed workspace in 0.83s
+2025.03.02 22:47:29 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:29 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:29 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:29 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:29 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:29 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:29 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:30 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:47:30 INFO  Disconnecting from Bloop session...
+2025.03.02 22:47:30 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:30 INFO  Shut down connection with build server.
+2025.03.02 22:47:30 INFO  Attempting to connect to the build server...
+2025.03.02 22:47:30 INFO  Found a Bloop server running
+2025.03.02 22:47:30 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:47:30 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:47:30 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:47:30 INFO  running doctor check
+2025.03.02 22:47:30 INFO  java targets: study-test, study
+2025.03.02 22:47:30 INFO  time: indexed workspace in 0.71s
+2025.03.02 22:47:31 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:31 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:31 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:37 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:37 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:37 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:37 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:37 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:37 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:37 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:37 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:38 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:38 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:38 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:38 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:38 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:38 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:38 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:38 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:38 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:39 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:39 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:40 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:47:40 INFO  Disconnecting from Bloop session...
+2025.03.02 22:47:40 INFO  Shut down connection with build server.
+2025.03.02 22:47:39 INFO  Failed to run request with params InverseSourcesResult
+2025.03.02 22:47:40 INFO  Attempting to connect to the build server...
+2025.03.02 22:47:40 INFO  Found a Bloop server running
+2025.03.02 22:47:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:47:40 INFO  time: Connected to build server in 0.12s
+2025.03.02 22:47:40 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:47:40 INFO  running doctor check
+2025.03.02 22:47:40 INFO  java targets: study-test, study
+2025.03.02 22:47:40 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:40 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:40 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:40 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:40 INFO  time: indexed workspace in 0.71s
+2025.03.02 22:47:41 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:41 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:41 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:40 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:41 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:41 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:41 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:41 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:41 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:41 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:42 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:43 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:47:43 INFO  Disconnecting from Bloop session...
+2025.03.02 22:47:43 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:43 INFO  Shut down connection with build server.
+2025.03.02 22:47:43 INFO  Attempting to connect to the build server...
+2025.03.02 22:47:43 INFO  Found a Bloop server running
+2025.03.02 22:47:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:47:43 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:47:43 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:47:43 INFO  running doctor check
+2025.03.02 22:47:43 INFO  java targets: study-test, study
+2025.03.02 22:47:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:43 INFO  time: indexed workspace in 0.71s
+2025.03.02 22:47:43 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:44 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:44 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:44 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:43 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:44 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:44 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:44 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:44 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:44 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:44 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:44 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:44 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:44 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:45 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:45 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:45 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:45 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:45 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:46 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:47:46 INFO  Disconnecting from Bloop session...
+2025.03.02 22:47:46 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:45 INFO  Shut down connection with build server.
+2025.03.02 22:47:45 INFO  Attempting to connect to the build server...
+2025.03.02 22:47:46 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:45 INFO  Found a Bloop server running
+2025.03.02 22:47:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:47:46 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:47:46 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:47:46 INFO  running doctor check
+2025.03.02 22:47:46 INFO  java targets: study-test, study
+2025.03.02 22:47:46 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:46 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:46 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:46 INFO  time: indexed workspace in 0.76s
+2025.03.02 22:47:46 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:47 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:47 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:47 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:47:47 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:47 INFO  Disconnecting from Bloop session...
+2025.03.02 22:47:47 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:47 INFO  Shut down connection with build server.
+2025.03.02 22:47:47 INFO  Attempting to connect to the build server...
+2025.03.02 22:47:47 INFO  Found a Bloop server running
+2025.03.02 22:47:47 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:47:47 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:47:47 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:47:47 INFO  running doctor check
+2025.03.02 22:47:47 INFO  java targets: study-test, study
+2025.03.02 22:47:47 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:47 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:47 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:48 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:48 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:47 INFO  time: indexed workspace in 0.71s
+2025.03.02 22:47:48 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:47 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:48 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:49 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:47:49 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:48 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:49 INFO  Disconnecting from Bloop session...
+2025.03.02 22:47:48 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:48 INFO  Shut down connection with build server.
+2025.03.02 22:47:48 INFO  Attempting to connect to the build server...
+2025.03.02 22:47:48 INFO  Found a Bloop server running
+2025.03.02 22:47:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:47:48 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:47:48 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:47:49 INFO  running doctor check
+2025.03.02 22:47:49 INFO  java targets: study-test, study
+2025.03.02 22:47:49 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:49 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:49 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:49 INFO  time: indexed workspace in 0.69s
+2025.03.02 22:47:50 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:49 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:49 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:50 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:47:50 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:50 INFO  Disconnecting from Bloop session...
+2025.03.02 22:47:49 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:50 INFO  Shut down connection with build server.
+2025.03.02 22:47:49 INFO  Attempting to connect to the build server...
+2025.03.02 22:47:49 INFO  Found a Bloop server running
+2025.03.02 22:47:49 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:47:49 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:47:49 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:47:49 INFO  running doctor check
+2025.03.02 22:47:49 INFO  java targets: study-test, study
+2025.03.02 22:47:51 INFO  time: indexed workspace in 0.71s
+2025.03.02 22:47:51 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:50 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:51 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:51 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:51 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:52 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:47:52 INFO  Disconnecting from Bloop session...
+2025.03.02 22:47:51 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:52 INFO  Shut down connection with build server.
+2025.03.02 22:47:52 INFO  Attempting to connect to the build server...
+2025.03.02 22:47:52 INFO  Found a Bloop server running
+2025.03.02 22:47:52 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:47:52 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:47:52 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:47:51 INFO  running doctor check
+2025.03.02 22:47:51 INFO  java targets: study-test, study
+2025.03.02 22:47:53 INFO  time: indexed workspace in 0.66s
+2025.03.02 22:47:52 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:47:53 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:47:53 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:48:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:48:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:48:03 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:48:03 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:48:04 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:48:04 INFO  Disconnecting from Bloop session...
+2025.03.02 22:48:04 INFO  Shut down connection with build server.
+2025.03.02 22:48:04 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:48:03 INFO  Attempting to connect to the build server...
+2025.03.02 22:48:03 INFO  Found a Bloop server running
+2025.03.02 22:48:03 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:48:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:48:03 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:48:03 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:48:04 INFO  running doctor check
+2025.03.02 22:48:04 INFO  java targets: study-test, study
+2025.03.02 22:48:04 INFO  time: indexed workspace in 0.68s
+2025.03.02 22:48:05 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:48:04 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:48:05 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+3月 02, 2025 10:48:12 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:48:48 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:48:59 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:48:59 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.02 22:48:59 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:48:59 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:00 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:00 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:00 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:00 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:00 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:00 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:00 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:00 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:01 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:02 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:03 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:03 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:04 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:03 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:49:03 INFO  Disconnecting from Bloop session...
+2025.03.02 22:49:04 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:49:04 INFO  Shut down connection with build server.
+2025.03.02 22:49:04 INFO  Attempting to connect to the build server...
+2025.03.02 22:49:04 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:04 INFO  Found a Bloop server running
+2025.03.02 22:49:04 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:04 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:49:04 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:49:04 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:49:04 INFO  running doctor check
+2025.03.02 22:49:04 INFO  java targets: study-test, study
+2025.03.02 22:49:04 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:05 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:05 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:04 INFO  time: indexed workspace in 0.72s
+2025.03.02 22:49:05 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:49:04 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:05 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:49:05 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:49:05 INFO  Disconnecting from Bloop session...
+2025.03.02 22:49:05 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:05 INFO  Shut down connection with build server.
+2025.03.02 22:49:05 INFO  Attempting to connect to the build server...
+2025.03.02 22:49:05 INFO  Found a Bloop server running
+2025.03.02 22:49:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:49:06 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:49:06 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:49:06 INFO  running doctor check
+2025.03.02 22:49:06 INFO  java targets: study-test, study
+2025.03.02 22:49:06 INFO  time: indexed workspace in 0.74s
+2025.03.02 22:49:06 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:49:06 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:07 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:49:15 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:49:15 INFO  Disconnecting from Bloop session...
+2025.03.02 22:49:15 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:49:15 INFO  Shut down connection with build server.
+2025.03.02 22:49:15 INFO  Scala test classes not supported by server
+2025.03.02 22:49:15 INFO  Attempting to connect to the build server...
+2025.03.02 22:49:15 INFO  Found a Bloop server running
+2025.03.02 22:49:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:49:15 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:49:15 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:49:15 INFO  running doctor check
+2025.03.02 22:49:15 INFO  java targets: study-test, study
+2025.03.02 22:49:15 INFO  time: indexed workspace in 0.8s
+2025.03.02 22:49:15 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:49:16 INFO  compiling study (1 scala source)
+2025.03.02 22:49:16 INFO  time: compiled study in 80ms
+3月 02, 2025 10:49:22 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1004
+2025.03.02 22:49:23 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:49:23 INFO  Disconnecting from Bloop session...
+2025.03.02 22:49:23 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:49:23 INFO  Shut down connection with build server.
+2025.03.02 22:49:23 INFO  Scala test classes not supported by server
+2025.03.02 22:49:23 INFO  Scala main classes not supported by server
+2025.03.02 22:49:23 INFO  Attempting to connect to the build server...
+2025.03.02 22:49:23 INFO  Found a Bloop server running
+2025.03.02 22:49:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:49:23 INFO  time: Connected to build server in 0.12s
+2025.03.02 22:49:23 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:49:23 INFO  running doctor check
+2025.03.02 22:49:23 INFO  java targets: study-test, study
+2025.03.02 22:49:23 INFO  time: indexed workspace in 0.65s
+2025.03.02 22:49:24 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:49:24 INFO  compiling study (1 scala source)
+2025.03.02 22:49:24 INFO  time: compiled study in 62ms
+2025.03.02 22:49:27 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:49:27 INFO  Disconnecting from Bloop session...
+2025.03.02 22:49:27 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:49:27 INFO  Shut down connection with build server.
+2025.03.02 22:49:27 INFO  Scala test classes not supported by server
+2025.03.02 22:49:27 INFO  Attempting to connect to the build server...
+2025.03.02 22:49:27 INFO  Found a Bloop server running
+2025.03.02 22:49:27 INFO  compiling study (1 scala source)
+2025.03.02 22:49:27 INFO  time: compiled study in 41ms
+2025.03.02 22:49:27 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:49:27 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:49:27 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:49:27 INFO  running doctor check
+2025.03.02 22:49:27 INFO  java targets: study-test, study
+2025.03.02 22:49:27 INFO  time: indexed workspace in 0.65s
+2025.03.02 22:49:27 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:49:27 INFO  compiling study (1 scala source)
+2025.03.02 22:49:27 INFO  time: compiled study in 44ms
+2025.03.02 22:49:31 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:49:31 INFO  Disconnecting from Bloop session...
+2025.03.02 22:49:31 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:49:31 INFO  Shut down connection with build server.
+2025.03.02 22:49:31 INFO  Scala test classes not supported by server
+2025.03.02 22:49:31 INFO  Scala main classes not supported by server
+2025.03.02 22:49:31 INFO  Attempting to connect to the build server...
+2025.03.02 22:49:31 INFO  Found a Bloop server running
+2025.03.02 22:49:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:49:31 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:49:31 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:49:32 INFO  running doctor check
+2025.03.02 22:49:32 INFO  java targets: study-test, study
+2025.03.02 22:49:32 INFO  time: indexed workspace in 0.73s
+2025.03.02 22:49:31 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:49:32 INFO  compiling study (1 scala source)
+2025.03.02 22:49:32 INFO  time: compiled study in 57ms
+2025.03.02 22:49:33 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:49:33 INFO  Disconnecting from Bloop session...
+2025.03.02 22:49:33 INFO  Shut down connection with build server.
+2025.03.02 22:49:33 INFO  Scala main classes not supported by server
+2025.03.02 22:49:33 INFO  Scala test classes not supported by server
+2025.03.02 22:49:33 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:49:33 INFO  Attempting to connect to the build server...
+2025.03.02 22:49:33 INFO  Found a Bloop server running
+2025.03.02 22:49:32 INFO  compiling study (1 scala source)
+2025.03.02 22:49:32 INFO  time: compiled study in 60ms
+2025.03.02 22:49:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:49:33 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:49:33 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:49:33 INFO  running doctor check
+2025.03.02 22:49:33 INFO  java targets: study-test, study
+2025.03.02 22:49:33 INFO  time: indexed workspace in 0.75s
+2025.03.02 22:49:33 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:49:34 INFO  compiling study (1 scala source)
+2025.03.02 22:49:34 INFO  time: compiled study in 44ms
+2025.03.02 22:49:34 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:49:34 INFO  Disconnecting from Bloop session...
+2025.03.02 22:49:34 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:49:34 INFO  Shut down connection with build server.
+2025.03.02 22:49:34 INFO  Scala test classes not supported by server
+2025.03.02 22:49:34 INFO  Attempting to connect to the build server...
+2025.03.02 22:49:34 INFO  Found a Bloop server running
+2025.03.02 22:49:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:49:34 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:49:34 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:49:34 INFO  running doctor check
+2025.03.02 22:49:34 INFO  java targets: study-test, study
+2025.03.02 22:49:34 INFO  time: indexed workspace in 0.72s
+2025.03.02 22:49:35 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:49:35 INFO  compiling study (1 scala source)
+2025.03.02 22:49:35 INFO  time: compiled study in 53ms
+2025.03.02 22:49:36 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:49:36 INFO  Disconnecting from Bloop session...
+2025.03.02 22:49:36 INFO  Shut down connection with build server.
+2025.03.02 22:49:36 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:49:36 INFO  Scala main classes not supported by server
+2025.03.02 22:49:36 INFO  Scala test classes not supported by server
+2025.03.02 22:49:36 INFO  Attempting to connect to the build server...
+2025.03.02 22:49:36 INFO  Found a Bloop server running
+2025.03.02 22:49:36 INFO  compiling study (1 scala source)
+2025.03.02 22:49:36 INFO  time: compiled study in 54ms
+2025.03.02 22:49:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:49:36 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:49:36 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:49:36 INFO  running doctor check
+2025.03.02 22:49:36 INFO  java targets: study-test, study
+2025.03.02 22:49:36 INFO  time: indexed workspace in 0.71s
+2025.03.02 22:49:36 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:49:36 INFO  compiling study (1 scala source)
+2025.03.02 22:49:36 INFO  time: compiled study in 58ms
+2025.03.02 22:49:40 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:49:40 INFO  Disconnecting from Bloop session...
+2025.03.02 22:49:40 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:49:40 INFO  Shut down connection with build server.
+2025.03.02 22:49:40 INFO  Scala test classes not supported by server
+2025.03.02 22:49:40 INFO  Scala main classes not supported by server
+2025.03.02 22:49:40 INFO  Attempting to connect to the build server...
+2025.03.02 22:49:40 INFO  Found a Bloop server running
+2025.03.02 22:49:40 INFO  compiling study (1 scala source)
+2025.03.02 22:49:40 INFO  time: compiled study in 54ms
+2025.03.02 22:49:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:49:40 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:49:40 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:49:40 INFO  running doctor check
+2025.03.02 22:49:40 INFO  java targets: study-test, study
+2025.03.02 22:49:40 INFO  time: indexed workspace in 0.69s
+2025.03.02 22:49:41 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:49:40 INFO  compiling study (1 scala source)
+2025.03.02 22:49:40 INFO  time: compiled study in 41ms
+2025.03.02 22:49:41 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:49:41 INFO  Disconnecting from Bloop session...
+2025.03.02 22:49:41 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:49:41 INFO  Shut down connection with build server.
+2025.03.02 22:49:41 INFO  Scala test classes not supported by server
+2025.03.02 22:49:41 INFO  Attempting to connect to the build server...
+2025.03.02 22:49:41 INFO  Found a Bloop server running
+2025.03.02 22:49:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:49:42 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:49:42 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:49:42 INFO  running doctor check
+2025.03.02 22:49:42 INFO  java targets: study-test, study
+2025.03.02 22:49:42 INFO  time: indexed workspace in 0.68s
+2025.03.02 22:49:41 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:49:42 INFO  compiling study (1 scala source)
+2025.03.02 22:49:42 INFO  time: compiled study in 47ms
+2025.03.02 22:49:42 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:49:42 INFO  Disconnecting from Bloop session...
+2025.03.02 22:49:42 INFO  Shut down connection with build server.
+2025.03.02 22:49:42 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:49:42 INFO  Scala main classes not supported by server
+2025.03.02 22:49:42 INFO  Scala test classes not supported by server
+2025.03.02 22:49:42 INFO  Attempting to connect to the build server...
+2025.03.02 22:49:42 INFO  Found a Bloop server running
+2025.03.02 22:49:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:49:42 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:49:42 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:49:42 INFO  running doctor check
+2025.03.02 22:49:42 INFO  java targets: study-test, study
+2025.03.02 22:49:42 INFO  time: indexed workspace in 0.71s
+2025.03.02 22:49:43 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:49:43 INFO  compiling study (1 scala source)
+2025.03.02 22:49:43 INFO  time: compiled study in 52ms
+3月 02, 2025 10:49:54 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:50:01 午後 scala.meta.internal.metals.StdReporter $anonfun$create$1
+重大: empty definition using pc, found symbol in pc:  (full report at: /Users/mimurayuto/programming/dev/Scala/study/.metals/.reports/metals-full/2025-03-02/r_empty-definition_(study)_22-50-01-082.md)
+3月 02, 2025 10:50:01 午後 scala.meta.internal.metals.StdReporter $anonfun$create$1
+重大: empty definition using pc, found symbol in pc:  (full report at: /Users/mimurayuto/programming/dev/Scala/study/.metals/.reports/metals-full/2025-03-02/r_empty-definition_(study)_22-50-01-082.md)
+3月 02, 2025 10:50:04 午後 scala.meta.internal.metals.StdReporter $anonfun$create$1
+重大: empty definition using pc, found symbol in pc:  (full report at: /Users/mimurayuto/programming/dev/Scala/study/.metals/.reports/metals-full/2025-03-02/r_empty-definition_(study)_22-50-01-082.md)
+3月 02, 2025 10:50:05 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.02 22:50:15 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:50:15 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:50:40 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:50:40 INFO  Disconnecting from Bloop session...
+2025.03.02 22:50:40 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:50:40 INFO  Shut down connection with build server.
+2025.03.02 22:50:40 INFO  Scala main classes not supported by server
+2025.03.02 22:50:40 INFO  Scala test classes not supported by server
+2025.03.02 22:50:40 INFO  Attempting to connect to the build server...
+2025.03.02 22:50:40 INFO  Found a Bloop server running
+2025.03.02 22:50:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:50:41 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:50:41 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:50:40 INFO  running doctor check
+2025.03.02 22:50:40 INFO  java targets: study-test, study
+2025.03.02 22:50:40 INFO  time: indexed workspace in 0.71s
+2025.03.02 22:50:41 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:50:41 INFO  compiling study (1 scala source)
+2025.03.02 22:50:41 INFO  time: compiled study in 57ms
+2025.03.02 22:50:49 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:50:49 INFO  Disconnecting from Bloop session...
+2025.03.02 22:50:49 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:50:49 INFO  Shut down connection with build server.
+2025.03.02 22:50:49 INFO  Scala test classes not supported by server
+2025.03.02 22:50:49 INFO  Scala main classes not supported by server
+2025.03.02 22:50:49 INFO  Attempting to connect to the build server...
+2025.03.02 22:50:49 INFO  Found a Bloop server running
+2025.03.02 22:50:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:50:49 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:50:49 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:50:49 INFO  running doctor check
+2025.03.02 22:50:49 INFO  java targets: study-test, study
+2025.03.02 22:50:49 INFO  time: indexed workspace in 0.7s
+2025.03.02 22:50:49 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:50:50 INFO  compiling study (1 scala source)
+2025.03.02 22:50:50 INFO  time: compiled study in 45ms
+2025.03.02 22:50:53 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:50:53 INFO  Disconnecting from Bloop session...
+2025.03.02 22:50:53 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:50:53 INFO  Shut down connection with build server.
+2025.03.02 22:50:53 INFO  Attempting to connect to the build server...
+2025.03.02 22:50:53 INFO  Found a Bloop server running
+2025.03.02 22:50:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:50:53 INFO  time: Connected to build server in 0.12s
+2025.03.02 22:50:53 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:50:53 INFO  running doctor check
+2025.03.02 22:50:53 INFO  java targets: study-test, study
+2025.03.02 22:50:53 INFO  time: indexed workspace in 0.72s
+2025.03.02 22:50:53 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:50:54 INFO  compiling study (1 scala source)
+2025.03.02 22:50:54 INFO  compiling study-test (1 scala source)
+2025.03.02 22:50:54 INFO  time: compiled study in 0.63s
+2025.03.02 22:50:54 INFO  time: compiled study-test in 0.18s
+2025.03.02 22:51:08 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:51:08 INFO  Disconnecting from Bloop session...
+2025.03.02 22:51:08 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:51:08 INFO  Shut down connection with build server.
+2025.03.02 22:51:08 INFO  Attempting to connect to the build server...
+2025.03.02 22:51:08 INFO  Found a Bloop server running
+2025.03.02 22:51:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:51:08 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:51:08 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:51:08 INFO  running doctor check
+2025.03.02 22:51:08 INFO  java targets: study-test, study
+2025.03.02 22:51:08 INFO  time: indexed workspace in 0.68s
+2025.03.02 22:51:08 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:51:08 INFO  compiling study (2 scala sources)
+2025.03.02 22:51:08 INFO  time: compiled study in 55ms
+3月 02, 2025 10:51:15 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:51:17 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.02 22:51:56 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:51:56 INFO  Disconnecting from Bloop session...
+2025.03.02 22:51:56 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:51:56 INFO  Shut down connection with build server.
+3月 02, 2025 10:51:56 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+警告: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.sendCancelNotification(RemoteEndpoint.java:191)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint$1.cancel(RemoteEndpoint.java:160)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.$anonfun$cancel$1(FutureWithTimeout.scala:37)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.cancel(FutureWithTimeout.scala:37)
+	at scala.meta.internal.metals.Cancelable$.$anonfun$cancelAll$1(Cancelable.scala:29)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.Cancelable$.cancelAll(Cancelable.scala:28)
+	at scala.meta.internal.metals.MutableCancelable.cancel(MutableCancelable.scala:25)
+	at scala.meta.internal.metals.utils.RequestRegistry.cancel(RequestRegistry.scala:99)
+	at scala.meta.internal.metals.BuildServerConnection.cancel(BuildServerConnection.scala:459)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:183)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:175)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.io.IOException: Broken pipe
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:62)
+	at java.base/sun.nio.ch.SocketChannelImpl.tryWrite(SocketChannelImpl.java:1371)
+	at java.base/sun.nio.ch.SocketChannelImpl.blockingWriteFully(SocketChannelImpl.java:1405)
+	at java.base/sun.nio.ch.SocketOutputStream.write(SocketOutputStream.java:58)
+	at java.base/sun.nio.ch.SocketOutputStream.write(SocketOutputStream.java:53)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:139)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:110)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 20 more
+
+2025.03.02 22:51:56 INFO  Scala test classes not supported by server
+2025.03.02 22:51:56 INFO  Attempting to connect to the build server...
+2025.03.02 22:51:56 INFO  Found a Bloop server running
+2025.03.02 22:51:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:51:56 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:51:56 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:51:56 INFO  running doctor check
+2025.03.02 22:51:56 INFO  java targets: study-test, study
+2025.03.02 22:51:56 INFO  time: indexed workspace in 0.72s
+2025.03.02 22:51:57 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:51:56 INFO  compiling study (2 scala sources)
+2025.03.02 22:51:56 INFO  time: compiled study in 58ms
+2025.03.02 22:52:00 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:52:00 INFO  Disconnecting from Bloop session...
+2025.03.02 22:52:00 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:52:00 INFO  Shut down connection with build server.
+2025.03.02 22:52:00 INFO  Scala main classes not supported by server
+2025.03.02 22:52:00 INFO  Scala test classes not supported by server
+2025.03.02 22:52:00 INFO  Attempting to connect to the build server...
+2025.03.02 22:52:00 INFO  Found a Bloop server running
+2025.03.02 22:52:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:52:00 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:52:00 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:52:00 INFO  running doctor check
+2025.03.02 22:52:00 INFO  java targets: study-test, study
+2025.03.02 22:52:00 INFO  time: indexed workspace in 0.82s
+2025.03.02 22:52:00 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:52:00 INFO  compiling study (2 scala sources)
+2025.03.02 22:52:01 INFO  time: compiled study in 49ms
+2025.03.02 22:52:06 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:52:06 INFO  Disconnecting from Bloop session...
+2025.03.02 22:52:06 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:52:06 INFO  Shut down connection with build server.
+2025.03.02 22:52:06 INFO  Scala test classes not supported by server
+2025.03.02 22:52:06 INFO  Attempting to connect to the build server...
+2025.03.02 22:52:06 INFO  Found a Bloop server running
+2025.03.02 22:52:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:52:06 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:52:06 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:52:06 INFO  running doctor check
+2025.03.02 22:52:06 INFO  java targets: study-test, study
+2025.03.02 22:52:06 INFO  time: indexed workspace in 0.74s
+2025.03.02 22:52:06 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:52:06 INFO  compiling study (2 scala sources)
+2025.03.02 22:52:06 INFO  time: compiled study in 51ms
+2025.03.02 22:52:15 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:52:15 INFO  Disconnecting from Bloop session...
+2025.03.02 22:52:15 INFO  Shut down connection with build server.
+2025.03.02 22:52:15 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:52:15 INFO  Scala main classes not supported by server
+2025.03.02 22:52:15 INFO  Scala test classes not supported by server
+2025.03.02 22:52:15 INFO  Attempting to connect to the build server...
+2025.03.02 22:52:15 INFO  Found a Bloop server running
+2025.03.02 22:52:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:52:15 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:52:15 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:52:15 INFO  running doctor check
+2025.03.02 22:52:15 INFO  java targets: study-test, study
+2025.03.02 22:52:15 INFO  time: indexed workspace in 0.73s
+2025.03.02 22:52:16 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:52:15 INFO  compiling study (2 scala sources)
+2025.03.02 22:52:15 INFO  time: compiled study in 49ms
+2025.03.02 22:52:20 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:52:20 INFO  Disconnecting from Bloop session...
+2025.03.02 22:52:20 INFO  Shut down connection with build server.
+3月 02, 2025 10:52:20 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+警告: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.sendCancelNotification(RemoteEndpoint.java:191)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint$1.cancel(RemoteEndpoint.java:160)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.$anonfun$cancel$1(FutureWithTimeout.scala:37)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.cancel(FutureWithTimeout.scala:37)
+	at scala.meta.internal.metals.Cancelable$.$anonfun$cancelAll$1(Cancelable.scala:29)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.Cancelable$.cancelAll(Cancelable.scala:28)
+	at scala.meta.internal.metals.MutableCancelable.cancel(MutableCancelable.scala:25)
+	at scala.meta.internal.metals.utils.RequestRegistry.cancel(RequestRegistry.scala:99)
+	at scala.meta.internal.metals.BuildServerConnection.cancel(BuildServerConnection.scala:459)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:183)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:175)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.io.IOException: Broken pipe
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:62)
+	at java.base/sun.nio.ch.SocketChannelImpl.tryWrite(SocketChannelImpl.java:1371)
+	at java.base/sun.nio.ch.SocketChannelImpl.blockingWriteFully(SocketChannelImpl.java:1405)
+	at java.base/sun.nio.ch.SocketOutputStream.write(SocketOutputStream.java:58)
+	at java.base/sun.nio.ch.SocketOutputStream.write(SocketOutputStream.java:53)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:139)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:110)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 20 more
+
+2025.03.02 22:52:20 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:52:20 INFO  Attempting to connect to the build server...
+2025.03.02 22:52:20 INFO  Found a Bloop server running
+2025.03.02 22:52:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:52:20 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:52:20 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:52:20 INFO  running doctor check
+2025.03.02 22:52:20 INFO  java targets: study-test, study
+2025.03.02 22:52:20 INFO  time: indexed workspace in 0.67s
+2025.03.02 22:52:21 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:52:20 INFO  compiling study (2 scala sources)
+2025.03.02 22:52:20 INFO  time: compiled study in 51ms
+2025.03.02 22:52:24 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:52:24 INFO  Disconnecting from Bloop session...
+2025.03.02 22:52:24 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:52:24 INFO  Shut down connection with build server.
+3月 02, 2025 10:52:24 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+警告: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.sendCancelNotification(RemoteEndpoint.java:191)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint$1.cancel(RemoteEndpoint.java:160)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.$anonfun$cancel$1(FutureWithTimeout.scala:37)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.cancel(FutureWithTimeout.scala:37)
+	at scala.meta.internal.metals.Cancelable$.$anonfun$cancelAll$1(Cancelable.scala:29)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.Cancelable$.cancelAll(Cancelable.scala:28)
+	at scala.meta.internal.metals.MutableCancelable.cancel(MutableCancelable.scala:25)
+	at scala.meta.internal.metals.utils.RequestRegistry.cancel(RequestRegistry.scala:99)
+	at scala.meta.internal.metals.BuildServerConnection.cancel(BuildServerConnection.scala:459)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:183)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:175)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.io.IOException: Broken pipe
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:62)
+	at java.base/sun.nio.ch.SocketChannelImpl.tryWrite(SocketChannelImpl.java:1371)
+	at java.base/sun.nio.ch.SocketChannelImpl.blockingWriteFully(SocketChannelImpl.java:1405)
+	at java.base/sun.nio.ch.SocketOutputStream.write(SocketOutputStream.java:58)
+	at java.base/sun.nio.ch.SocketOutputStream.write(SocketOutputStream.java:53)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:139)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:110)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 20 more
+
+2025.03.02 22:52:24 INFO  Attempting to connect to the build server...
+2025.03.02 22:52:24 INFO  Found a Bloop server running
+2025.03.02 22:52:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:52:24 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:52:24 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:52:24 INFO  running doctor check
+2025.03.02 22:52:24 INFO  java targets: study-test, study
+2025.03.02 22:52:24 INFO  time: indexed workspace in 0.67s
+2025.03.02 22:52:24 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:52:24 INFO  compiling study (2 scala sources)
+2025.03.02 22:52:24 INFO  time: compiled study in 44ms
+2025.03.02 22:52:29 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:52:29 INFO  Disconnecting from Bloop session...
+2025.03.02 22:52:29 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:52:29 INFO  Shut down connection with build server.
+2025.03.02 22:52:29 INFO  Attempting to connect to the build server...
+2025.03.02 22:52:29 INFO  Found a Bloop server running
+2025.03.02 22:52:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:52:29 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:52:29 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:52:29 INFO  running doctor check
+2025.03.02 22:52:29 INFO  java targets: study-test, study
+2025.03.02 22:52:29 INFO  time: indexed workspace in 0.71s
+2025.03.02 22:52:30 WARN  no build target for: /Users/mimurayuto/programming/dev/Scala/study/Age.scala
+2025.03.02 22:52:29 INFO  compiling study (2 scala sources)
+2025.03.02 22:52:29 INFO  time: compiled study in 38ms
+2025.03.02 22:52:33 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:52:33 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:52:36 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/build.sbt. Using presentation compiler with project's scala-library version: 2.13.16
+2025.03.02 22:52:42 INFO  compiling study (1 scala source)
+2025.03.02 22:52:42 WARN  Invalid text document uri received from build server: file:///Users/mimurayuto/programming/dev/Scala/study/User.scala
+2025.03.02 22:52:42 INFO  time: compiled study in 0.42s
+2025.03.02 22:52:42 INFO  compiling study-test (1 scala source)
+2025.03.02 22:52:42 INFO  time: compiled study-test in 0.16s
+2025.03.02 22:52:48 INFO  no build target found for /Users/mimurayuto/programming/dev/Scala/study/Age.scala. Using presentation compiler with project's scala-library version: 2.13.16
+3月 02, 2025 10:52:51 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:52:56 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.02 22:52:59 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:52:59 INFO  Disconnecting from Bloop session...
+2025.03.02 22:52:59 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:52:59 INFO  Shut down connection with build server.
+2025.03.02 22:52:59 INFO  Scala main classes not supported by server
+2025.03.02 22:52:59 INFO  Attempting to connect to the build server...
+2025.03.02 22:52:59 INFO  Found a Bloop server running
+2025.03.02 22:52:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:52:59 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:52:59 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:52:59 INFO  running doctor check
+2025.03.02 22:52:59 INFO  java targets: study-test, study
+2025.03.02 22:52:59 INFO  time: indexed workspace in 0.83s
+2025.03.02 22:53:00 INFO  compiling study (1 scala source)
+2025.03.02 22:53:00 INFO  time: compiled study in 0.36s
+2025.03.02 22:53:00 INFO  compiling study-test (1 scala source)
+2025.03.02 22:53:00 INFO  time: compiled study-test in 0.2s
+2025.03.02 22:53:02 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:53:02 INFO  Disconnecting from Bloop session...
+2025.03.02 22:53:02 INFO  Shut down connection with build server.
+2025.03.02 22:53:02 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:53:02 INFO  Attempting to connect to the build server...
+2025.03.02 22:53:02 INFO  Found a Bloop server running
+2025.03.02 22:53:02 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:53:02 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:53:02 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:53:02 INFO  running doctor check
+2025.03.02 22:53:02 INFO  java targets: study-test, study
+2025.03.02 22:53:02 INFO  time: indexed workspace in 0.77s
+2025.03.02 22:53:03 INFO  compiling study (1 scala source)
+2025.03.02 22:53:03 INFO  compiling study-test (1 scala source)
+2025.03.02 22:53:03 INFO  time: compiled study in 0.34s
+2025.03.02 22:53:03 INFO  time: compiled study-test in 0.17s
+2025.03.02 22:53:07 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:53:07 INFO  Disconnecting from Bloop session...
+2025.03.02 22:53:07 INFO  Shut down connection with build server.
+2025.03.02 22:53:07 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:53:07 INFO  Scala main classes not supported by server
+2025.03.02 22:53:07 INFO  Scala test classes not supported by server
+2025.03.02 22:53:07 INFO  Attempting to connect to the build server...
+2025.03.02 22:53:07 INFO  Found a Bloop server running
+2025.03.02 22:53:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:53:07 INFO  time: Connected to build server in 0.12s
+2025.03.02 22:53:07 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:53:07 INFO  running doctor check
+2025.03.02 22:53:07 INFO  java targets: study-test, study
+2025.03.02 22:53:07 INFO  time: indexed workspace in 0.8s
+2025.03.02 22:53:08 INFO  compiling study (1 scala source)
+2025.03.02 22:53:08 INFO  compiling study-test (1 scala source)
+2025.03.02 22:53:08 INFO  time: compiled study in 0.31s
+2025.03.02 22:53:08 INFO  time: compiled study-test in 0.13s
+2025.03.02 22:53:09 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:53:09 INFO  Disconnecting from Bloop session...
+2025.03.02 22:53:09 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:53:09 INFO  Shut down connection with build server.
+2025.03.02 22:53:09 INFO  Attempting to connect to the build server...
+2025.03.02 22:53:09 INFO  Found a Bloop server running
+2025.03.02 22:53:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:53:09 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:53:09 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:53:09 INFO  running doctor check
+2025.03.02 22:53:09 INFO  java targets: study-test, study
+2025.03.02 22:53:09 INFO  time: indexed workspace in 0.85s
+2025.03.02 22:53:09 INFO  compiling study (1 scala source)
+2025.03.02 22:53:10 INFO  time: compiled study in 0.28s
+2025.03.02 22:53:10 INFO  compiling study-test (1 scala source)
+2025.03.02 22:53:10 INFO  time: compiled study-test in 0.12s
+2025.03.02 22:53:13 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:53:13 INFO  Disconnecting from Bloop session...
+2025.03.02 22:53:13 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:53:13 INFO  Shut down connection with build server.
+2025.03.02 22:53:13 INFO  Scala test classes not supported by server
+2025.03.02 22:53:13 INFO  Scala main classes not supported by server
+2025.03.02 22:53:13 INFO  Attempting to connect to the build server...
+2025.03.02 22:53:13 INFO  Found a Bloop server running
+2025.03.02 22:53:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:53:13 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:53:13 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:53:13 INFO  running doctor check
+2025.03.02 22:53:13 INFO  java targets: study-test, study
+2025.03.02 22:53:13 INFO  time: indexed workspace in 0.82s
+2025.03.02 22:53:14 INFO  compiling study-test (1 scala source)
+2025.03.02 22:53:14 INFO  time: compiled study-test in 0.39s
+2025.03.02 22:53:18 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:53:18 INFO  Disconnecting from Bloop session...
+2025.03.02 22:53:18 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:53:18 INFO  Shut down connection with build server.
+3月 02, 2025 10:53:18 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+警告: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.sendCancelNotification(RemoteEndpoint.java:191)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint$1.cancel(RemoteEndpoint.java:160)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.$anonfun$cancel$1(FutureWithTimeout.scala:37)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.cancel(FutureWithTimeout.scala:37)
+	at scala.meta.internal.metals.Cancelable$.$anonfun$cancelAll$1(Cancelable.scala:29)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.Cancelable$.cancelAll(Cancelable.scala:28)
+	at scala.meta.internal.metals.MutableCancelable.cancel(MutableCancelable.scala:25)
+	at scala.meta.internal.metals.utils.RequestRegistry.cancel(RequestRegistry.scala:99)
+	at scala.meta.internal.metals.BuildServerConnection.cancel(BuildServerConnection.scala:459)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:183)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:175)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.io.IOException: Broken pipe
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:62)
+	at java.base/sun.nio.ch.SocketChannelImpl.tryWrite(SocketChannelImpl.java:1371)
+	at java.base/sun.nio.ch.SocketChannelImpl.blockingWriteFully(SocketChannelImpl.java:1405)
+	at java.base/sun.nio.ch.SocketOutputStream.write(SocketOutputStream.java:58)
+	at java.base/sun.nio.ch.SocketOutputStream.write(SocketOutputStream.java:53)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:139)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:110)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 20 more
+
+2025.03.02 22:53:18 INFO  Scala test classes not supported by server
+2025.03.02 22:53:18 INFO  Attempting to connect to the build server...
+2025.03.02 22:53:18 INFO  Found a Bloop server running
+2025.03.02 22:53:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:53:18 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:53:18 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:53:18 INFO  running doctor check
+2025.03.02 22:53:18 INFO  java targets: study-test, study
+2025.03.02 22:53:18 INFO  time: indexed workspace in 0.83s
+2025.03.02 22:53:19 INFO  compiling study (1 scala source)
+2025.03.02 22:53:19 INFO  time: compiled study in 51ms
+2025.03.02 22:53:19 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:53:19 INFO  Disconnecting from Bloop session...
+2025.03.02 22:53:19 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:53:19 INFO  Shut down connection with build server.
+2025.03.02 22:53:19 INFO  Scala test classes not supported by server
+2025.03.02 22:53:19 INFO  Attempting to connect to the build server...
+2025.03.02 22:53:19 INFO  Found a Bloop server running
+2025.03.02 22:53:20 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:53:20 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:53:20 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:53:19 INFO  running doctor check
+2025.03.02 22:53:19 INFO  java targets: study-test, study
+2025.03.02 22:53:20 INFO  time: indexed workspace in 0.83s
+2025.03.02 22:53:19 INFO  compiling study (1 scala source)
+2025.03.02 22:53:20 INFO  time: compiled study in 50ms
+2025.03.02 22:53:26 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:53:26 INFO  Disconnecting from Bloop session...
+2025.03.02 22:53:26 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:53:26 INFO  Shut down connection with build server.
+2025.03.02 22:53:26 INFO  Scala test classes not supported by server
+2025.03.02 22:53:26 INFO  Attempting to connect to the build server...
+2025.03.02 22:53:26 INFO  Found a Bloop server running
+2025.03.02 22:53:26 INFO  compiling study (1 scala source)
+2025.03.02 22:53:26 INFO  time: compiled study in 41ms
+2025.03.02 22:53:26 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:53:26 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:53:26 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:53:26 INFO  running doctor check
+2025.03.02 22:53:26 INFO  java targets: study-test, study
+2025.03.02 22:53:26 INFO  time: indexed workspace in 0.8s
+2025.03.02 22:53:26 INFO  compiling study (1 scala source)
+2025.03.02 22:53:26 INFO  time: compiled study in 40ms
+2025.03.02 22:53:32 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:53:32 INFO  Disconnecting from Bloop session...
+2025.03.02 22:53:32 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:53:32 INFO  Shut down connection with build server.
+2025.03.02 22:53:32 INFO  Scala test classes not supported by server
+2025.03.02 22:53:32 INFO  Scala main classes not supported by server
+2025.03.02 22:53:32 INFO  Attempting to connect to the build server...
+2025.03.02 22:53:32 INFO  Found a Bloop server running
+2025.03.02 22:53:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:53:32 INFO  time: Connected to build server in 0.12s
+2025.03.02 22:53:32 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:53:32 INFO  running doctor check
+2025.03.02 22:53:32 INFO  java targets: study-test, study
+2025.03.02 22:53:32 INFO  time: indexed workspace in 0.71s
+2025.03.02 22:53:32 INFO  compiling study (1 scala source)
+2025.03.02 22:53:32 INFO  time: compiled study in 60ms
+2025.03.02 22:53:38 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:53:38 INFO  Disconnecting from Bloop session...
+2025.03.02 22:53:38 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:53:38 INFO  Shut down connection with build server.
+2025.03.02 22:53:38 INFO  Scala main classes not supported by server
+2025.03.02 22:53:38 INFO  Scala test classes not supported by server
+2025.03.02 22:53:38 INFO  Attempting to connect to the build server...
+2025.03.02 22:53:38 INFO  Found a Bloop server running
+2025.03.02 22:53:38 INFO  compiling study (1 scala source)
+2025.03.02 22:53:38 INFO  time: compiled study in 79ms
+2025.03.02 22:53:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:53:38 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:53:38 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:53:38 INFO  running doctor check
+2025.03.02 22:53:38 INFO  java targets: study-test, study
+2025.03.02 22:53:38 INFO  time: indexed workspace in 0.77s
+2025.03.02 22:53:39 INFO  compiling study (1 scala source)
+2025.03.02 22:53:39 INFO  time: compiled study in 65ms
+2025.03.02 22:53:41 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:53:41 INFO  Disconnecting from Bloop session...
+2025.03.02 22:53:41 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:53:41 INFO  Shut down connection with build server.
+2025.03.02 22:53:41 INFO  Attempting to connect to the build server...
+2025.03.02 22:53:41 INFO  Found a Bloop server running
+2025.03.02 22:53:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:53:41 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:53:41 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:53:41 INFO  running doctor check
+2025.03.02 22:53:41 INFO  java targets: study-test, study
+2025.03.02 22:53:41 INFO  time: indexed workspace in 0.73s
+2025.03.02 22:53:41 INFO  compiling study (1 scala source)
+2025.03.02 22:53:41 INFO  compiling study-test (1 scala source)
+2025.03.02 22:53:41 INFO  time: compiled study in 0.36s
+2025.03.02 22:53:41 INFO  time: compiled study-test in 0.12s
+2025.03.02 22:53:45 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:53:45 INFO  Disconnecting from Bloop session...
+2025.03.02 22:53:45 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:53:45 INFO  Shut down connection with build server.
+2025.03.02 22:53:45 INFO  Scala test classes not supported by server
+2025.03.02 22:53:45 INFO  Scala main classes not supported by server
+2025.03.02 22:53:45 INFO  Attempting to connect to the build server...
+2025.03.02 22:53:45 INFO  Found a Bloop server running
+2025.03.02 22:53:45 INFO  compiling study (1 scala source)
+2025.03.02 22:53:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:53:45 INFO  time: Connected to build server in 0.11s
+2025.03.02 22:53:45 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:53:45 INFO  running doctor check
+2025.03.02 22:53:45 INFO  java targets: study-test, study
+2025.03.02 22:53:45 INFO  compiling study-test (1 scala source)
+2025.03.02 22:53:45 INFO  time: compiled study-test in 0.13s
+2025.03.02 22:53:46 INFO  time: indexed workspace in 0.98s
+2025.03.02 22:53:46 INFO  compiling study-test (1 scala source)
+2025.03.02 22:53:46 INFO  time: compiled study-test in 0.14s
+2025.03.02 22:53:47 INFO  Detected new build tool in /Users/mimurayuto/programming/dev/Scala/study
+2025.03.02 22:53:47 INFO  Disconnecting from Bloop session...
+2025.03.02 22:53:47 INFO  Cancelling compilation on Bloop server
+2025.03.02 22:53:47 INFO  Shut down connection with build server.
+2025.03.02 22:53:47 INFO  Scala main classes not supported by server
+2025.03.02 22:53:47 INFO  Attempting to connect to the build server...
+2025.03.02 22:53:47 INFO  Scala test classes not supported by server
+2025.03.02 22:53:47 INFO  Found a Bloop server running
+2025.03.02 22:53:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/mimurayuto/programming/dev/Scala/study/.metals/bsp.trace.json or /Users/mimurayuto/Library/Caches/org.scalameta.metals/bsp.trace.json
+2025.03.02 22:53:47 INFO  time: Connected to build server in 0.12s
+2025.03.02 22:53:47 INFO  Connected to Build server: Bloop v2.0.8
+2025.03.02 22:53:46 INFO  running doctor check
+2025.03.02 22:53:46 INFO  java targets: study-test, study
+2025.03.02 22:53:48 INFO  time: indexed workspace in 0.79s
+2025.03.02 22:53:47 INFO  compiling study (1 scala source)
+2025.03.02 22:53:48 INFO  compiling study-test (1 scala source)
+2025.03.02 22:53:48 INFO  time: compiled study in 0.37s
+2025.03.02 22:53:48 INFO  time: compiled study-test in 0.12s
+3月 02, 2025 10:54:18 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:54:48 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+3月 02, 2025 10:54:50 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange
+2025.03.02 22:54:59 INFO  Scala test classes not supported by server
+java.util.concurrent.TimeoutException: Future timed out after [1 minute]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryAwait0(Promise.scala:248)
+	at scala.concurrent.impl.Promise$DefaultPromise.result(Promise.scala:261)
+	at scala.concurrent.Await$.$anonfun$result$1(package.scala:201)
+	at scala.concurrent.BlockContext$DefaultBlockContext$.blockOn(BlockContext.scala:62)
+	at scala.concurrent.Await$.result(package.scala:124)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionScalaFuture.$anonfun$withTimeout$1(MetalsEnrichments.scala:288)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:687)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+3月 02, 2025 10:55:15 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+警告: Unsupported notification method: metals/windowStateDidChange

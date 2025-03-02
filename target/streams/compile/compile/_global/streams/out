@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/mimurayuto/programming/dev/Scala/study/Hello.scala:5:17: value printUser is not a member of User[0m
+[0m[[0m[31merror[0m] [0m[0m        newUser.printUser()[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

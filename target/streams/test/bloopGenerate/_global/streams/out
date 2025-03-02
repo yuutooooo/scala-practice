@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0m[study-test] Classpath dependencies List()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[study-test] Dependencies from configurations List(study)[0m
+[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'study-test' to '/Users/mimurayuto/programming/dev/Scala/study/.bloop/study-test.json'[0m
+[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/study-test.json[0m
