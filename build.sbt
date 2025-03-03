@@ -6,3 +6,6 @@ lazy val root = (project in file("."))
     name := "study",
     scalacOptions ++= Seq("-deprecation", "-feature", "-unchecked", "-Xlint")
   )
+
+// build.sbt
+enablePlugins(ScalafmtPlugin)

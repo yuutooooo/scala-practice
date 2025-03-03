@@ -1,0 +1,29 @@
+# Scala関連
+*.class
+*.log
+*.metals
+.bloop/
+.metals/
+project/project/
+project/target/
+target/
+
+# sbt関連
+.cache
+.history
+.lib/
+dist/*
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# IDE関連
+.idea/
+.idea_modules/
+.vscode/
+.bsp/
+
+# OS関連
+.DS_Store
+*~
