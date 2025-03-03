@@ -1,3 +1,4 @@
+import javax.xml.transform.Source
 object HelloWorld {
   def main(args: Array[String]): Unit = {
     println("hello world !")
@@ -45,19 +46,117 @@ object HelloWorld {
     println(shape.area)
     shape = new Circle(2.0)
     println(shape.area)
+
+    val person1 = new PrivatePerson("yuto", 21, 70.0)
+    println(PrivatePerson.getAge(person1))
+    PrivatePerson.printWeight(person1)
+
+    val cell = new Cell[Int](1)
+    cell.put(2)
+    println(cell.get())
+    cell.put(5)
+    cell.put(6)
+    println(cell.get())
+    println(cell.get())
+    println(cell.toString())
+
+    // def withFile(filename: String)(f: Source => A): A = {
+    //   val source = Source.fromFile(filename)
+    //   try {
+    //     f(source)
+    //   } finally {
+    //     source.close()
+    //   }
+    // }
+
+    // def printFile(filename: String): Unit = {
+    //   withFile(filename) { source =>
+    //     for (line <- source.getLines()) {
+    //       println(line)
+    //     }
+    //   }
+    // }
+
+    def swapArray[T] (arr: Array[T])(i: Int, j: Int): Unit = {
+        val tmp = arr(i)
+        arr(i) = arr(j)
+        arr(j) = tmp
+    }
+
+    val arr = Array(1, 2, 3, 4, 5)
+    swapArray(arr)(0, 1)
+    println(arr.mkString(", "))
+
+    def joinByComma(start: Int, end: Int): String = {
+        (start to end).mkString(",")
+    }
+    val joinedString = joinByComma(1, 10)
+    println(joinedString)
+
+    def reverse[T] (list: List[T]): List[T] = list.foldLeft(Nil: List[T])((a, c) => c :: a)
+    val reversedList = reverse(List(1, 2, 3, 4, 5))
+    println(reversedList)
+
+    def mkstring[T] (list: List[T]): String = {list.foldLeft("")((a, b) => a + b)}
+    val joinedList = mkstring(List(1, 2, 3, 4, 5))
+    println(joinedList)
   }
 }
 
+trait Stack[+A] {
+  def push[E >: A](e: E): Stack[E]
+  def top: A
+  def pop: Stack[A]
+  def isEmpty: Boolean
+}
+
+class NonEmptyStack[+A](private val first: A, private val rest: Stack[A])
+    extends Stack[A] {
+  def push[E >: A](e: E): Stack[E] = new NonEmptyStack[E](e, this)
+  def top: A = first
+  def pop: Stack[A] = rest
+  def isEmpty: Boolean = false
+}
+
+case object EmptyStack extends Stack[Nothing] {
+  def push[E >: Nothing](e: E): Stack[E] = new NonEmptyStack[E](e, this)
+  def top: Nothing = throw new IllegalArgumentException("empty stack")
+  def pop: Nothing = throw new IllegalArgumentException("empty stack")
+  def isEmpty: Boolean = true
+}
+
+object Stack {
+  def apply(): Stack[Nothing] = EmptyStack
+}
+
+class Cell[A](var value: A) {
+  def put(newValue: A): Unit = {
+    value = newValue
+  }
+  def get(): A = value
+  override def toString: String = s"Cell($value)"
+}
+
+class PrivatePerson(
+    val name: String,
+    private val age: Int,
+    private val weight: Double
+)
+
+object PrivatePerson {
+  def getAge(p: PrivatePerson): Int = p.age
+  def printWeight(p: PrivatePerson): Unit = println(p.weight)
+}
 abstract class Shape {
   def area: Double
 }
 
 class Rectangle(val h: Double, val w: Double) extends Shape {
-  def area: Double = w * h
+  override def area: Double = w * h
 }
 
 class Circle(val r: Double) extends Shape {
-  def area: Double = r * r * math.Pi
+  override def area: Double = r * r * math.Pi
 }
 
 class Point3D(val x: Int, val y: Int, val z: Int)
